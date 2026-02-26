@@ -12,7 +12,7 @@ Select your book below to find the specific logic and chapters discussed:
 ### 🇺🇸 English Editions
 1. **Creating a Trading Bot in Python: From Zero to Full Automation with Bitcoin**
    * *Focus:* Step-by-step bot building, Kraken API, and core logic.
-   * [👉 View on Amazon](https://www.amazon.com/dp/B0GD8LWTKB) (Replace with the new English ASIN)
+   * [👉 View on Amazon](https://www.amazon.com/dp/B0GQ63FYVZ)
 
 ### 🇧🇷 Edições em Português
 1. **Criando um Bot de Trade em Python: Do zero à automação completa com Bitcoin**
