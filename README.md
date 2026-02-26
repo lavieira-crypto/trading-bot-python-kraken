@@ -33,7 +33,7 @@ The code in this repository (see `trading_bot.py`) covers:
 * **Trading Modes:** Toggle between `PAPER` (simulation) and `LIVE` (real funds).
 
 ## 🚀 Quick Start
-1. **Clone:** `git clone https://github.com/SEU_USUARIO/NOME_REPOSITORIO.git`
+1. **Clone:** `git clone https://github.com/lavieira-crypto/trading-bot-python-kraken.git`
 2. **Install:** `pip install -r requirements.txt`
 3. **Configure:** Set your API keys in environment variables:
    ```bash
