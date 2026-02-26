@@ -49,3 +49,15 @@ As a reader, you can request the full directory of templates, including the LaTe
 Disclaimer: Trading cryptocurrencies involves significant risk. This code is for educational purposes. Always test in PAPER mode first.
 
 © 2026 Prof. Leandro de Abreu Vieira.
+
+🇧🇷 [PT] Sobre Mim
+Prof. Dr. Leandro de Abreu Vieira
+Sou Doutor em Física, investigador e desenvolvedor de software. A minha missão é unir o rigor matemático e analítico da física com a agilidade das FinTechs. Autor de livros técnicos que transformam modelos teóricos em algoritmos de trading reais.
+
+🇺🇸 [EN] About Me
+Prof. Dr. Leandro de Abreu Vieira
+I hold a PhD in Physics and I am a researcher and software developer. My mission is to bridge the gap between the mathematical rigor of physics and FinTech agility. Author of technical books that turn theoretical models into real-world trading algorithms.
+
+🇩🇪 [DE] Über Mich
+Prof. Dr. Leandro de Abreu Vieira
+Ich habe einen Doktortitel in Physik und bin Forscher sowie Softwareentwickler. Meine Mission ist es, die mathematische Strenge der Physik mit der Agilität von FinTechs zu verbinden. Autor technischer Bücher, die theoretische Modelle in reale Handelsalgorithmen verwandeln.
